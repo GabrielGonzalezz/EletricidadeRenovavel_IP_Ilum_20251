@@ -25,7 +25,7 @@
     <img src="https://github.com/user-attachments/assets/eaac5b3a-6667-4237-ad3a-3eac8f34abfa" alt="Logo" width="220" height="220">
   </a>
 
-  <h3 align="center">Modelagem de Geração de Eletricidade Renovável</h3>
+  <h3 align="center">Modelagem de Geração de Eletricidade Renovável.</h3>
 
   <p align="center">
     Bem vindo ao nosso Repositório da Iniciação a Pesquisa 2025.1, disciplina do 5° semestre da Ilum!
